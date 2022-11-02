@@ -1,5 +1,5 @@
 # 🤖 NLP Chatbot
-<img src="https://github.com/rita-s/nlp-chatbot/blob/master/images/bot.jpeg" width="20%">
+<img src="https://github.com/rita-s/nlp-chatbot/blob/master/images/bot.jpeg" width="35%">
 
 ## 📝 Project Description
 ### Chatbot
