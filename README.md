@@ -1,5 +1,5 @@
-# 🤖 NLP Chatbot
-<img src="https://github.com/rita-s/nlp-chatbot/blob/master/images/bot.jpeg" width="35%">
+# Customer Churn Prediction
+<img src="https://github.com/rita-s/" width="35%">
 
 ## 📝 Project Description
 ### Chatbot
