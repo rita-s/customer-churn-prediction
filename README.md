@@ -4,7 +4,6 @@
 ## 📝 Project Description
 ##### We are a team of machine learning engineers and we’ve won a bid with “Telco” to create a machine learning model that will predict customer churn.
 ##### Customer churn prediction is an emerging phenomenon that enables companies to take the necessary steps to retain clients thus retaining constant revenue.
-![image](https://user-images.githubusercontent.com/60058370/201543860-702a999a-c1d5-4cc9-bffc-09087bb253df.png)
 
 
 ### ⚙️ Data Pipeline
