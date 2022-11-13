@@ -12,7 +12,7 @@
 ##### T - Checking for null values and data types, dropping irrelevant coluns, converting categorical data to numeric
 ##### L - Loading to PostgreSQL database
 
-## 💼 Technical documentation - Please see the full report <a href="https://github.com/rita-s/customer-churn-prediction/blob/master/Technical%20Document.docx" target="_blank">here</a>
+## 💼 Technical documentation - Please see the full documentation here <a href="https://github.com/rita-s/customer-churn-prediction/blob/master/Technical%20Document.docx" target="_blank">here</a>
 
 
 ## 📚 References:
