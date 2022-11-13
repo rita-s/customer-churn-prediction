@@ -15,8 +15,6 @@ total_intl_calls int,
 total_intl_charge decimal(10,2),
 number_customer_service_calls int,
 churn int,
-area_code_area_code_415 int,
-area_code_area_code_510 int,
 international_plan_yes int,
 voice_mail_plan_yes int
 );
